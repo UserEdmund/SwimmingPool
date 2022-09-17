@@ -4,8 +4,10 @@ According to the idea of “target detection → target tracking → state model
 
 
 
-# This project is based on Yolov5 + StrongSORT 
+# This project is based on Yolov5 + DeepSORT 
 
-The baseline repo is forked from  https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet
+The baseline YoloV5 repo is forked from  https://github.com/ultralytics/yolov5/
+
+The baseline DeepSORT repo is forked from  https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet
 
 For Yolov5 DeepSort OSNet bugs and feature requests please visit [GitHub Issues](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet/issues). For business inquiries or professional support requests please send an email to: yolov5.deepsort.pytorch@gmail.com
