@@ -17,7 +17,7 @@ This folder contains code related to three main components:
 
 ### Architecture of the Project
 
-![Overall Architecture](sourcecode/architecture.png)
+![Overall Architecture](sourcecode/swimmingpool-guard/architecture.png)
 
 ### 1. Weather Parameter Addition
 
