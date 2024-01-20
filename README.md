@@ -34,7 +34,7 @@ For Yolov5 DeepSort OSNet bugs and feature requests please visit [GitHub Issues]
 
 ### Demo Video
 
-![Demo Video](demo.mp4) 
+![Click here to Watch the Demo Video!](demo.mp4) 
 
 
 ## Contributors
