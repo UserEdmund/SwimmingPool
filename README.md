@@ -30,11 +30,11 @@ For Yolov5 DeepSort OSNet bugs and feature requests please visit [GitHub Issues]
 
 ### Architecture of the Project
 
-![Overall Architecture](architecture.png)
+![Overall Architecture](sourcecode/swimmingpool-guard/architecture.png)
 
 ### Demo Video
 
-![Demo Video](Demo.mp4) 
+![Demo Video](demo.mp4) 
 
 
 ## Contributors
