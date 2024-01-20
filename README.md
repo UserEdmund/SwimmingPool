@@ -17,9 +17,6 @@ The project structure is organized as follows:
    ```bash
    git clone https://github.com/UserEdmund/SwimmingPool.git
 
-
-
-
 # This project is based on Yolov5 + DeepSORT 
 
 The baseline YoloV5 repo is forked from  https://github.com/ultralytics/yolov5/
