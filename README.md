@@ -33,6 +33,8 @@ For Yolov5 DeepSort OSNet bugs and feature requests please visit [GitHub Issues]
 
 ![demo gif](demogif.gif) 
 
+The created from a source online. Source: https://finance.sina.com.cn/jjxw/2023-10-09/doc-imzqpeci4661742.shtml
+
 
 ## Contributors
 
