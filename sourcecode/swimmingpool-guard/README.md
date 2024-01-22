@@ -15,10 +15,6 @@ This folder contains code related to three main components:
 
 ## Contents
 
-### Architecture of the Project
-
-![Overall Architecture](architecture.png)
-
 ### 1. Weather Parameter Addition
 
 The `weather_parameter_addition` directory contains the code for adding weather as a parameter to your application. This feature allows you to dynamically incorporate weather data into your processes. Refer to the documentation or source files within this directory for implementation details.
@@ -50,6 +46,3 @@ To use the code in this repository, follow these general steps:
 - [Hongyi Qi](https://github.com/UserEdmund)
 
 
-## License
-
-This project is licensed under the [GPL-3.0 License](LICENSE).
